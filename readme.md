@@ -1,4 +1,8 @@
-# Three.js Starter
+# Hello three.js
+    experimenting with three.js etc...
+
+
+## Project build from Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
